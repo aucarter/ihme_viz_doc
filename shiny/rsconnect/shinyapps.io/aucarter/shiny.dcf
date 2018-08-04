@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username:
+account: aucarter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 393893
+bundleId: 1515672
+url: https://aucarter.shinyapps.io/shiny/
+when: 1533254197.08104
+asMultiple: FALSE
+asStatic: FALSE
